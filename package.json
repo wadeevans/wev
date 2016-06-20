@@ -1,0 +1,16 @@
+{
+  "name": "@wadeevans/wev",
+  "version": "1.1.1",
+  "description": "my npm",
+  "main": "index.js",
+  "repository": "github.com/#",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Chris Wade-Evans",
+  "license": "ISC",
+  "dependencies": {}
+}
